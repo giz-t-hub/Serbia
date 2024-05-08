@@ -37,9 +37,11 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
 
 - Railways:
+
 - Roads:
-  -   
+  - Action Plan for Traffic Safety of the Republic of Serbia for the period from 2023 to 2025 *(Акциони план безбедности саобраћаја Републике Србије за период од 2023. до 2025. године): https://www.putevi-srbije.rs/images/pdf/strategija/akcioni-plan-bezbednosti-saobracaja-2023-2025.pdf
   - More: https://www.putevi-srbije.rs/index.php/en/organisation/sector-for-strategy,-designing-and-development/department-for-strategic-planning,-studies-and-development
+
 - Inland waterways, ports:
 - Aviation:
 
