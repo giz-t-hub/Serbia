@@ -87,6 +87,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Studies and research papers <a name="studies-research"></a> 
 
 
+- Serbia and 2030 Agenda: Mapping the National Strategic Framework vis-a-vis the Sustainable Development Goals, : https://rsjp.gov.rs/wp-content/uploads/Serbia-and-2030-Agenda_November-2021.pdf
+
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
