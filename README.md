@@ -29,6 +29,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### National Vision, Strategy, Masterplan <a name="national-vision-strategy-masterplan"></a> 
 
 - Transport
+  - ToR: Development of National Transport Strategy 2022 - 2030: https://www.koridorisrbije.rs/site/content/files/5f44ec9ad2649_ToR-SER-WBTTF-QCBS-CS-20-12-NT%20Strategy.pdf
 
 - General
 
@@ -54,6 +55,10 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
     - Integrated National Energy and Climate Plan of the Republic of Serbia for the period 2030 with the projections up to 2050, [National Energy and Climate Plan (Draft, 2021)](https://www.energy-community.org/implementation/package/NECP.html)    
 
 ### Urban and regional development <a name="urban"></a> 
+
+  - National Strategy for Social Housing, 2012 *(Nacionalna Strategija Socijalnog Stanovanja)*: https://www.mgsi.gov.rs/sites/default/files/NACIONALNA%20STRATEGIJA%20SOCIJALNOG%20STANOVANJA_0.pdf
+  - Strategy for Sustainable Urban Development of the Republic of Serbia until 2030, 2019 *(Стратегију одрживог урбаног развоја Републике Србије до 2030. године)*: https://www.putevi-srbije.rs/images/pdf/strategija/Strategija-odrzivog-urbanog-razvoja-RS-do-2030-godine.pdf
+
 
 ### EU accession and cooperation <a name="eu-accession"></a> 
 
@@ -88,6 +93,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 
 - Serbia and 2030 Agenda: Mapping the National Strategic Framework vis-a-vis the Sustainable Development Goals, : https://rsjp.gov.rs/wp-content/uploads/Serbia-and-2030-Agenda_November-2021.pdf
+- Market Study of Intercity Bus Transport: https://www.kzk.gov.rs/kzk/wp-content/uploads/2022/06/Serbia-Buses-Market-Study-English-FINAL.pdf
 
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
