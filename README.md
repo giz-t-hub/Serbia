@@ -92,7 +92,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Belgrade:
   - Sustainable Urban Mobility Plan Belgrade, 2021: https://bgsaobracaj.rs/uploads/files/%D0%9F%D0%9E%D0%A3%D0%9C/SUMP%20Belgrade_2021_CEP-Secretariat%20for%20transport_ENG_11zon.pdf
   - Master Plan of Belgrade: https://www.beoland.com/en/plans/master-plan-belgrade/
-  - 
+  - Climate Change Adaptation Action Plan and Vulnerability Assessment: https://www.beograd.rs/images/data/c83d368b72364ac6c9f9740f9cda05ed_6180150278.pdf
 
 ### Local Sustainable Energy and Climate Action Plans <a name="local-secaps"></a> 
 - [SECAP Municipality of Belgrade](https://ebrdgreencities.com/assets/Uploads/PDF/Belgrade-SECAP.pdf)
