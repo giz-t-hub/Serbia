@@ -64,8 +64,13 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Trade Facilitation <a name="trade-facilitation"></a> 
 
-### Digitalisation (a name="digitalisation"></a>
 - 
+
+### Digitalisation <a name="digitalisation"></a> 
+
+- 
+
+### Gender and Equality <a name="gender"></a> 
 
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
