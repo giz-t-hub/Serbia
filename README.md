@@ -50,17 +50,22 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
 - Mitigation:
-  
+  - 
+  - Low Carbon Development Strategy of the Republic of Serbia for the period 2023-2030 with projections until 2050: https://www.ekologija.gov.rs/sites/default/files/2023-11/low_carbon_development_strategy_of_the_republic_of_serbia_for_the_period_2023-_2030_with_projections_until_2050.pdf
       
 - Adaptation
    
 
 - Energy policy 
-    - Integrated National Energy and Climate Plan of the Republic of Serbia for the period 2030 with the projections up to 2050, [National Energy and Climate Plan (Draft, 2021)](https://www.energy-community.org/implementation/package/NECP.html)    
+    - Integrated National Energy and Climate Plan of the Republic of Serbia for the period 2030 with the projections up to 2050, [National Energy and Climate Plan (Draft, 2021)](https://www.energy-community.org/implementation/package/NECP.html)
+    - Energy Sector Development Strategy of the Republic of Serbia for the period by 2025 with projections by 2030: https://meemp-serbia.com/wp-content/uploads/2018/09/Legislative-Energy-Sector-Development-Strategy-of-the-Republic-of-Serbia-for-the-period-by-2025-with-projections-by-2030.pdf
+
+  
 
 ### Urban and regional development <a name="urban"></a> 
 
   - National Strategy for Social Housing, 2012 *(Nacionalna Strategija Socijalnog Stanovanja)*: https://www.mgsi.gov.rs/sites/default/files/NACIONALNA%20STRATEGIJA%20SOCIJALNOG%20STANOVANJA_0.pdf
+  - National Housing Strategy *(Национална стамбена стратегија)*: https://www.mgsi.gov.rs/sites/default/files/Nacionalna%20stambena%20strategija_NACRT_0.pdf 
   - Strategy for Sustainable Urban Development of the Republic of Serbia until 2030, 2019 *(Стратегију одрживог урбаног развоја Републике Србије до 2030. године)*: https://www.putevi-srbije.rs/images/pdf/strategija/Strategija-odrzivog-urbanog-razvoja-RS-do-2030-godine.pdf
 
 
