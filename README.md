@@ -50,9 +50,11 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
 - Mitigation:
-  - 
-  - Low Carbon Development Strategy of the Republic of Serbia for the period 2023-2030 with projections until 2050: https://www.ekologija.gov.rs/sites/default/files/2023-11/low_carbon_development_strategy_of_the_republic_of_serbia_for_the_period_2023-_2030_with_projections_until_2050.pdf
-      
+  - Updated NDC Serbia, 2022: https://unfccc.int/documents/611306
+  - Biennial update reports (BUR). BUR 2., 2022: https://unfccc.int/documents/636126
+  - National Communication (NC). NC 3., 2022: https://unfccc.int/documents/637782
+  - Low Carbon Development Strategy of the Republic of Serbia for the period 2023-2030 with projections until 2050: https://unfccc.int/documents/636740
+     
 - Adaptation
    
 
