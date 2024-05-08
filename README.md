@@ -131,5 +131,9 @@ Transformative Urban Mobility Initiative (TUMI): https://transformative-mobility
 MobiliseYourCity: https://www.mobiliseyourcity.net/
 Compiled by / Contact:
 
+Contributors:
+
+Ana Zhibaj: ana.zhibaj@giz.de
+
 Armin Wagner: armin.wagner@giz.de
 (as of May 2024)
