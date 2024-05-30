@@ -19,7 +19,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - [Trade Facilitation](#trade-facilitation)
 - [Digitalisation](#digitalisation) 
 - [Gender and Equality](#gender)
-- [Local Transport Plans](#local-transport-plans)
+- [Urban mobility plans, strategies, and concepts; local transport plans, etc](#local-transport-plans)
 - [Local Sustainable Energy and Climate Action Plans](local-secaps) 
 - [Studies and research papers](#studies-research) 
 - [International cooperation projects and strategies](#International-cooperation) 
@@ -93,7 +93,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Gender and Equality <a name="gender"></a> 
 
-### Local Transport Plans <a name="local-transport-plans"></a>  
+-
+
+### Urban mobility plans, strategies, and concepts; local transport plans, etc <a name="local-transport-plans"></a>  
 
 - Belgrade:
   - Sustainable Urban Mobility Plan Belgrade, 2021: https://bgsaobracaj.rs/uploads/files/%D0%9F%D0%9E%D0%A3%D0%9C/SUMP%20Belgrade_2021_CEP-Secretariat%20for%20transport_ENG_11zon.pdf
